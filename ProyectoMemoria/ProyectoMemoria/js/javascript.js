@@ -1,4 +1,4 @@
-var grupoTarjetas = ["😎", "🍦", "🐸", "👽", "👾", "🤖", "👹", "🐌","🐈‍⬛","🧟‍♂️","💩"];
+var grupoTarjetas = ["😎", "🍦", "🐸", "👽", "👾", "🤖", "👹", "🐌","🐈‍⬛","🧟‍♂️","💩","🥶","🥹","🐭"];
 var totalTarjetas = grupoTarjetas.concat(grupoTarjetas);
 
 // Variables para controlar el juego
