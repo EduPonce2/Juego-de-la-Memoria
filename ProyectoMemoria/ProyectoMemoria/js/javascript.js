@@ -32,7 +32,7 @@ function reparteTarjetas() {
     mesa.appendChild(tarjeta);
   });
 
-  // Agregamos eventos después de repartir
+  // eventos después de repartir
   document.querySelectorAll(".tarjeta").forEach(function(elemento) {
     elemento.addEventListener("click", descubrir);
   });
