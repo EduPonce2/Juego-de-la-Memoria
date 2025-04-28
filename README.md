@@ -90,7 +90,7 @@ Hacé push a la rama (git push origin mejora-nueva).
 
 Abrí un Pull Request para revisión.
 
-**CONTACTO☎️**
+**CONTACTO📞**
 
 AUTOR/ES: PONCE EDUARDO Y AMARILLA FABRICIO
 
