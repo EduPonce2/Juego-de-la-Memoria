@@ -1,10 +1,10 @@
+
 # BIENVENIDOS AL JUEGO DE LA MEMORIA 🤯
+*Este es un sencillo proyecto de un juego web donde se deben encontrar las parejas de cartas iguales en la menor cantidad de intentos posibles.*
 
-### Este es un sencillo proyecto de un juego web donde se deben encontrar las parejas de cartas iguales en la menor cantidad de intentos posibles*
+*El objetivo es coincidir pares de cartas que contienen emojis, cuando hagas clic en una carta, si coinciden, permanecen descubiertas, sino, se vuelven a ocultar.*
 
-### El objetivo es coincidir pares de cartas que contienen emojis, cuando hagas clic en una carta, si coinciden, permanecen descubiertas, sino, se vuelven a ocultar
-
-## **INSTALACION🤓**
+## **🤓  INSTALACION  🤓**
 1) Clonar este repositorio en tu computadora
 2) git clone https://github.com/EduPonce2/Juego-de-la-Memoria.git
 3) Asegurate de tener los siguientes archivos en tu carpeta:
@@ -21,7 +21,7 @@ README.md
 
 Abrir el archivo index.html en tu navegador favorito. 
 
-## **USO🤔**
+## **🤔 USO 🤔**
 
 Al abrir la página, el juego reparte las cartas de forma aleatoria.
 
@@ -56,12 +56,18 @@ Hacé push a la rama (git push origin mejora-nueva).
 
 Abrí un Pull Request para revisión.
 
-**CONTACTO📞**
+## **📞 CONTACTO**
 
-AUTOR/ES: PONCE EDUARDO Y AMARILLA FABRICIO
+## <u> *AUTORES:* </u>
+ 
+ ### PONCE EDUARDO & AMARILLA FABRICIO
 
-EMAIL: Eduponce2@gmail.com 
+📧 EMAIL: 
+
+eduponce2@gmail.com 
 escfabricioamarilla@gmail.com
 
-GITHUB:  https://github.com/Eduponce2 
+GITHUB:  
+
+https://github.com/Eduponce2 
  https://github.com/Fabri-amarilla
