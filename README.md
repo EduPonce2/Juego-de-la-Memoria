@@ -37,7 +37,7 @@ El contador de intentos se actualiza automáticamente.
 
 **CAPTURA DE PANTALLA**
 
-![Juego en acción](assets/juegodelamemoria.png)
+![Juego en acción](ProyectoMemoria/ProyectoMemoria/assets/juegodelamemoria.png)
 
 
 **CONTRIBUCION🫂**
