@@ -2,7 +2,7 @@ const grupoTarjetas = ["😎", "🍦", "🐸", "👽", "👾", "🤖", "👹", "
 let totalTarjetas = grupoTarjetas.concat(grupoTarjetas);
 
 // Variables para controlar el juego
-let primeraTarjeta = null;
+let primeraTarjeta = null; //que clickeo
 let segundaTarjeta = null;
 let sePuedeDescubrir = true;
 let intentos = 0;
@@ -45,15 +45,16 @@ function reparteTarjetas() {
 }
 
 function descubrir() {
-  if (!sePuedeDescubrir || this.classList.contains("descubierta")) {
+  if (!sePuedeDescubrir || this.classList.contains //ya esta dada vuelta 
+  ("descubierta")) {
     return;
   }
 
   this.classList.add("descubierta");
 
-  if (!primeraTarjeta) {
+  if (!primeraTarjeta) { //no se dio vuelta ninguna
     primeraTarjeta = this;
-  } else {
+  } else { //ya se dio vuelta una
     segundaTarjeta = this;
     sePuedeDescubrir = false;
 
@@ -77,9 +78,9 @@ function descubrir() {
     } else {
       // No son iguales
       setTimeout(function() {
-        primeraTarjeta.classList.remove("descubierta");
+        primeraTarjeta.classList.remove("descubierta");//ocuta
         segundaTarjeta.classList.remove("descubierta");
-        primeraTarjeta = null;
+        primeraTarjeta = null;//reinicia
         segundaTarjeta = null;
         sePuedeDescubrir = true;
       }, 1000);
